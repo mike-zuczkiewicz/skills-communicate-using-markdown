@@ -8,3 +8,6 @@
 const constant = 'my new constant';
 let a = 1 + 1;
 ```
+
+- [ ] To be completed
+- [x] Completed
